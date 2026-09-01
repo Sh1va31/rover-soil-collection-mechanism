@@ -12,4 +12,4 @@ An soil sampling module designed to be mounted on a planetary or terrestrial rov
 ![SolidWorks Design](Mechanism.png)
 
 ## Repository Structure
-* `/Documentation`: Contains engineering sheets and torque calculation notes.
+* `/Documentation`: Contains documentation of the project.
